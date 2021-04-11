@@ -17,6 +17,7 @@ import java.net.Socket;
 
 public class MainActivity extends AppCompatActivity implements View.OnTouchListener {
 
+    //me equivoque en el commit hehe
     private Button upBtn, rightBtn, leftBtn, downBtn, fireBtn;
     private BufferedWriter bwriter;
 
